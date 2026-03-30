@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+*.env
+s3_client.env
+My_UNet_Arch.pth
+.venv/
+venv/
+__pycache__/
+*.pth

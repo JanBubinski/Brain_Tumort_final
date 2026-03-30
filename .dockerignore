@@ -1,0 +1,12 @@
+s3_client.env
+.env
+data/
+Validation/
+training_logs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.git
+.gitignore
